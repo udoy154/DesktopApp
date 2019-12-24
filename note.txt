@@ -1,0 +1,4 @@
+To run this project u have need Crystal Report installed on our PC
+
+#If you want to run this project without Crystal Report open the project
+   ==>do comment all the Crystal Report related line on CrystalReportUserControl    
